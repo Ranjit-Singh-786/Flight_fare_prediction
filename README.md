@@ -6,8 +6,8 @@ Travelling through flights has become an integral part of today’s lifestyle as
 
 ## steps to execute this project
 ### intall the requirements.txt
--pip install -r requirements.txt
+- pip install -r requirements.txt
 
 ### rum the app.py file
--python app.py
+- python app.py
 # Thanks 
